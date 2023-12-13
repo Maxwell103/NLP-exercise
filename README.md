@@ -49,5 +49,5 @@ Future Work:
 - Visualizations
 - Feature Vector Visualization
 
-Conclusion
+## Conclusion
 In conclusion, this project serves as a practical exercise in working with NLP pre-trained models. Despite encountering challenges in data downloading, the project demonstrates steps to tokenize, fine-tune, and evaluate a model. Future work involves addressing challenges and further experimentation with different models and tasks.
