@@ -1,5 +1,8 @@
 # NLP Exercise Project
 
+[NLPExerciseMaxwellErnst.ipynb - Colaboratory.pdf](https://github.com/Maxwell103/NLP-exercise/files/13658125/NLPExerciseMaxwellErnst.ipynb.-.Colaboratory.pdf)
+
+
 Welcome to the NLP Exercise project! In this project, you'll be exploring and experimenting with state-of-the-art NLP pre-trained models such as BERT, GPT-2, and others. Let's break down the key components of your project:
 
 ### Project Overview
@@ -44,8 +47,7 @@ Future Work:
 - Continue exploring and experimenting with different models and tasks.
 - Address challenges related to data downloading or consider alternative datasets.
 - Visualizations
-- Image of a Graph (Visualize the graph here)
-- Feature Vector Visualization (Provide insights or visualizations)
+- Feature Vector Visualization
 
 Conclusion
 In conclusion, this project serves as a practical exercise in working with NLP pre-trained models. Despite encountering challenges in data downloading, the project demonstrates steps to tokenize, fine-tune, and evaluate a model. Future work involves addressing challenges and further experimentation with different models and tasks.
